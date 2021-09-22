@@ -1,0 +1,14 @@
+{
+    "pk": "b1",
+    "sk": "Thiamine",
+    "Vendor": "Now Foods",
+    "Title": "Now Foods Thiamine B1 Energy Support",
+    "Description": "Vitamin B1, called Thiamine. Thiamine Hydrochloride, C12H17N4OS+",
+    "PrimaryUnits": "Pills",
+    "PrimaryUnitsPerBottle": "100",
+    "DoseUnit": "mg",
+    "DosePerPrimaryUnit": "100",
+    "Price Units": "USD",
+    "Price Per Primary Unit": "9.99",
+    "Country Sold in": "Worldwide"
+}

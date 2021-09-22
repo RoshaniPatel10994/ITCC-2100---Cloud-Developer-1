@@ -1,0 +1,10 @@
+107.21.174.184
+
+docker stop be76e96b3a4f
+
+
+
+        "repositoryUri": "703971239098.dkr.ecr.us-east-1.amazonaws.com/webapp",
+docker tag webapp-image 703971239098.dkr.ecr.us-east-1.amazonaws.com/webapp
+
+docker push webapp-image 703971239098.dkr.ecr.us-east-1.amazonaws.com/webapp
